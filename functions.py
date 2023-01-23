@@ -1,4 +1,4 @@
-FILEPATH = 'C:/Users/wetsp/PycharmProjects/pythonProject/Web_todo/tasks.txt'
+FILEPATH = 'tasks.txt'
 
 
 def get_task(filepath=FILEPATH):
